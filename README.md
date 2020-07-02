@@ -12,3 +12,6 @@ Added Functionalities:
 Small Fixes:
   1) Snake head stays in the same direction upon death instead of always facing right
   2) Won't die immediately if pressing left from start
+
+Used Swing, FileWriter, ActionListener, Anonymous Classes, Scanner, ImageIcons, Random,
+HashMaps and more to accomplish this task.
